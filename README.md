@@ -5,7 +5,10 @@
 
 Program was written in about 3 hours and was a lot of fun to mess around with. All the functions (but one) were "mandatory" by the test. Win condition code was taken from another coders solution to this problem and adapted to my own needs.
 
-It can definitely be worked on, there's a lot of stuff that's probably "rookie mistakes" or extremely unoptimized but I'll have to come back to it later.   
+It can definitely be worked on, there's a lot of stuff that's probably "rookie mistakes" or extremely unoptimized but I'll have to come back to it later.
+- Board state printing is not clean at all. Need to figure out how to print things better!
+- Needs more error handling.
+- Needs optimization and "best practices" all around.
 
 <br>
 
